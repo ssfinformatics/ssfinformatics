@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssfinformatics
-- 👀 I’m interested in Data Science, ML, Python, DevOps
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Edtech, Biotech or other projects
+- 👀 I’m interested BPMN, Automatisation, Java, Kotlin, Data Science, ML, Python, DevOps
+- 🌱 I’m currently Business Analyst/ System Analyst
+- 💞️ I’m looking to collaborate on BPMN, Camunda; Edtech, Biotech or other projects
 - 📫 How to reach me ssf.informatics@gmail.com
 
 <!---
