@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssfinformatics
-- 👀 I’m interested BPMN, Automatisation, Java, Kotlin, Data Science, ML, Python, DevOps
-- 🌱 I’m currently Business Analyst/ System Analyst
-- 💞️ I’m looking to collaborate on BPMN, Camunda; Edtech, Biotech or other projects
+- 👀 I’m interested Automatization, UML, BPMN, ML, Go, Python, DevOps, Cloud
+- 🌱 I’m currently System Analyst in Fintech
+- 💞️ I’m looking to collaborate as System Analyst in Fintech
 - 📫 How to reach me ssf.informatics@gmail.com
 
 <!---
