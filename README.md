@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssfinformatics
 - 👀 I’m interested in Fintech, Automatization, UML, BPMN, ML, Go, Python, DevOps, Cloud
-- 🌱 I’m currently System Analyst in Fintech
+- 🌱 I’m currently System Analyst in Fintech, want to become Devops, learn Python and Go.
 - 💞️ I’m looking to collaborate as System Analyst in Fintech
 - 📫 How to reach me ssf.informatics@gmail.com
 
